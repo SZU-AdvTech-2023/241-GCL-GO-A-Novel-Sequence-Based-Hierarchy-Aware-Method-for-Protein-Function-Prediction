@@ -1,0 +1,9 @@
+@inproceedings{REPO241,
+    author = "Choi, Kyudam and Lee, Yurim and Kim, Cheongwon",
+    booktitle = "2022 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+    number = "",
+    pages = "51-56",
+    title = "{GCL-GO: A Novel Sequence-Based Hierarchy-Aware Method for Protein Function Prediction}",
+    volume = "",
+    year = "2022"
+}
